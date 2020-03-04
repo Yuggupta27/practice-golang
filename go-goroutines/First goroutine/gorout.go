@@ -16,4 +16,5 @@ func count(toPrint string) {
 		fmt.Println(i, toPrint)
 		time.Sleep(time.Millisecond * 500)
 	}
+
 }
